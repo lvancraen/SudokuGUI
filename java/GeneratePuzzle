@@ -1,0 +1,9 @@
+
+public class GeneratePuzzle {
+	
+	public static void main(String args[]) {
+		
+		Puzzle_GUI puzzle = new Puzzle_GUI();
+		puzzle.fillWindow();
+	}
+}
